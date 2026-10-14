@@ -1,4 +1,4 @@
-#include <iostream>
+#include <iostream> // nghịch thử hàm
 using namespace std;
 
 int timGtln( int a, int b, int c) {
