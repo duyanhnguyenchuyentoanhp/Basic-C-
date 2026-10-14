@@ -1,4 +1,4 @@
-#include <bits/stdc++.h>
+#include <bits/stdc++.h> // https://lqdoj.edu.vn/problem/26hsg9nbi1
 using namespace std;
 
 long long tinhdientich(long long x, long long y) {
